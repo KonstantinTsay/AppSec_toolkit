@@ -1,7 +1,3 @@
-Ниже готовый **README.md** для проекта **AppSec Automation Toolkit**.
-
----
-
 ```markdown
 # 🛡 AppSec Automation Toolkit
 
